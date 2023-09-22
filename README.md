@@ -32,5 +32,5 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 # 17 May 2023
 [The not so simple technique to get people to say yes](https://github.com/adrien-fillon/presentations/blob/main/BYAF%20economic%20department.pptx) - A presentation at the department of economics of the university of Cyprus about my meta-analysis on the but-you-are-free effect (Fillon et al., 2023).
 
-# 12 Septembre 2023
-[Navigating the Reproducibility Crisis in Psychology: Reflections from Early Career Researchers](https://github.com/adrien-fillon/presentations/blob/main/navigating_v2.pptx) - A presentation at the department of economics of the university of Cyprus about my meta-analysis on the but-you-are-free effect (Fillon et al., 2023).
+# 12 September 2023
+[Navigating the Reproducibility Crisis in Psychology: Reflections from Early Career Researchers](https://github.com/adrien-fillon/presentations/blob/main/navigating_v2.pptx) - Joint presentation with Prasad Chandrashekar at the First SInnoPSis conference.
