@@ -34,3 +34,6 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 12 September 2023
 [Navigating the Reproducibility Crisis in Psychology: Reflections from Early Career Researchers](https://github.com/adrien-fillon/presentations/blob/main/navigating_v2.pptx) - Joint presentation with Prasad Chandrashekar at the First SInnoPSis conference.
+
+# 31 october 2023
+[Devrions-nous nous méfier de l'Open Science ?](https://github.com/adrien-fillon/presentations/blob/main/presentation%20open%20science%20UlB.pptx) - Présentation à l'université libre de Bruxelles sur l'édition scientifique et l'Open Science.
