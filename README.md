@@ -42,4 +42,4 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 [Devrions-nous nous méfier de l'Open Science ?](https://github.com/adrien-fillon/presentations/blob/main/presentation%20open%20science%20UlB.pptx) - Présentation au CPAFO – Clermont Ferrand
 
 # 08 avril 2024
-Should we be wary of Open Science? – BAPS University of Bruxelles
+[Should we be wary of Open Science?](https://github.com/adrien-fillon/presentations/blob/main/Wary%20open%20science%20bruxelles.pptx) – Belgian Association for Psychological Sciences
