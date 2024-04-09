@@ -37,3 +37,8 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 31 october 2023
 [Devrions-nous nous méfier de l'Open Science ?](https://github.com/adrien-fillon/presentations/blob/main/presentation%20open%20science%20UlB.pptx) - Présentation à l'université libre de Bruxelles sur l'édition scientifique et l'Open Science.
+
+# 25 novembre 2023
+[Devrions-nous nous méfier de l'Open Science ?](https://github.com/adrien-fillon/presentations/blob/main/presentation%20open%20science%20UlB.pptx) - Présentation au CPAFO – Clermont Ferrand
+
+
