@@ -43,3 +43,6 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 08 avril 2024
 [Should we be wary of Open Science?](https://github.com/adrien-fillon/presentations/blob/main/Wary%20open%20science%20bruxelles.pptx) – Belgian Association for Psychological Sciences
+
+# 13 avril 2024
+[Arrêtez vous biais-tises](https://github.com/adrien-fillon/presentations/blob/main/arretez%20vos%20biaistises.pptx) – Traduction des deux derniers cours d'introduction à l'économie comportementale - biais cognitifs - nudges - révolution d'hétérogénéité.
