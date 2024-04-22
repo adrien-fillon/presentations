@@ -46,3 +46,6 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 13 avril 2024
 [Arrêtez vous biais-tises](https://github.com/adrien-fillon/presentations/blob/main/arretez%20vos%20biaistises.pptx) – Traduction des deux derniers cours d'introduction à l'économie comportementale - biais cognitifs - nudges - révolution d'hétérogénéité.
+
+# 19 avril 2024
+[The Bias Bias in Behavioral Economics](https://github.com/adrien-fillon/presentations/blob/main/Seminar%20Master%20bias%20bias%20-%20Nudges%20-%20heterogeneity%20revolution.pdf) – Seminar at the university of cyprus en Bias Bias, Nudges, and Heterogeneity revolution
