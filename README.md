@@ -49,3 +49,13 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 19 avril 2024
 [The Bias Bias in Behavioral Economics](https://github.com/adrien-fillon/presentations/blob/main/Seminar%20Master%20bias%20bias%20-%20Nudges%20-%20heterogeneity%20revolution.pdf) – Seminar at the university of cyprus en Bias Bias, Nudges, and Heterogeneity revolution
+
+# 08 Octobre 2024
+[La culpabilité optimale](https://github.com/adrien-fillon/presentations/blob/main/CPAFO%20culpabilite%20optimate.pptx) - Présentation au LAPSCO d'une étude sur l'intérêt de rendre les collacorateurs des fraudeurs aussi, sinon plus, responsable de la fraude que le fraudeur.
+
+# 29 janvier 2025
+[La psychologie sociale pragmatique](https://github.com/adrien-fillon/presentations/blob/main/jigsaw%20et%20precis2.pptm) - Présentation au LAPSCO des échelles de pragmatismes utilisés dans d'autres sciences, qui peuvent améliorer la validité externe des études en psychologie sociale appliquée.
+
+# 04 avril 2025
+[Le problème des Weird et la diversité de représentation en psychologie](https://github.com/adrien-fillon/presentations/blob/main/problem%20weird.pptx) - Présentation au LAPSCO du problème du concept de WEIRD et des raisons du manque de progrès vers plus de diversité en psychologie
+
