@@ -59,3 +59,7 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 # 04 avril 2025
 [Le problème des Weird et la diversité de représentation en psychologie](https://github.com/adrien-fillon/presentations/blob/main/problem%20weird.pptx) - Présentation au LAPSCO du problème du concept de WEIRD et des raisons du manque de progrès vers plus de diversité en psychologie
 
+# 18 avril 2025
+[Inférences causales et médiations]([https://github.com/adrien-fillon/presentations/blob/main/problem%20weird.pptx](https://github.com/adrien-fillon/presentations/blob/main/Les%20analyses%20de%20m%C3%A9diations.pdf) - Présentation au LAPSCO du problème que posent les médiations dans l'inférence causale
+
+
