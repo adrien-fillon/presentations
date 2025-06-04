@@ -62,4 +62,5 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 # 18 avril 2025
 [Inférences causales et médiations](https://github.com/adrien-fillon/presentations/blob/main/Les%20analyses%20de%20m%C3%A9diations.pdf) - Présentation au LAPSCO du problème que posent les médiations dans l'inférence causale
 
-
+# 15 Mai 2025
+[les générations au travail](https://github.com/adrien-fillon/presentations/blob/main/Pr%C3%A9sentation%2015%20mai%20Instant%20T%20adrien%20fillon.pptx) - Présentation au département du Puy de Dôme d'une méta-analyse sur les différences entre générations au travail
