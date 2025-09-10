@@ -67,3 +67,6 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 4 Juin 2025
 [Analyse séquentielle et optional stopping](https://github.com/adrien-fillon/presentations/blob/main/small%20meeting%20ete%202025%20Analyses%20s%C3%A9quentielles%20et%20optional%20stopping.pptx) - Présentation aux small meetings d'été du problème que posent les analyses séquentielles en terme de risque d'optional stopping et les recommandations de bonnes pratiques sur le sujet.
+
+# 09 septembre 2025
+[Rethinking meta-analysis purpose](https://github.com/adrien-fillon/presentations/blob/main/summer%20school%20meta-analysis_af.pptx) - Présentation en anglais à la summer school Twinn4Merit du besoin de redéfinir l'objectif des méta-analyses.
