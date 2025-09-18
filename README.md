@@ -69,4 +69,10 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 [Analyse séquentielle et optional stopping](https://github.com/adrien-fillon/presentations/blob/main/small%20meeting%20ete%202025%20Analyses%20s%C3%A9quentielles%20et%20optional%20stopping.pptx) - Présentation aux small meetings d'été du problème que posent les analyses séquentielles en terme de risque d'optional stopping et les recommandations de bonnes pratiques sur le sujet.
 
 # 09 septembre 2025
-[Rethinking meta-analysis purpose](https://github.com/adrien-fillon/presentations/blob/main/summer%20school%20meta-analysis_af.pptx) - Présentation en anglais à la summer school Twinn4Merit du besoin de redéfinir l'objectif des méta-analyses.
+[Rethinking meta-analysis purpose](https://github.com/adrien-fillon/presentations/blob/main/summer%20school%20meta-analysis_af.pptx) - Présentation en anglais à la summer school Twin4Merit du besoin de redéfinir l'objectif des méta-analyses.
+
+# 10 septembre 2025
+[Wary open science 2025](https://github.com/adrien-fillon/presentations/blob/main/Wary%20Open%20Science%20cyprus%20september%202025_af.pptx) - Présentation en anglais à la conférence Twin4Merit sur le problème que pose l'Open Science lorsqu'elle est synonyme des Article Processing Charges, les prix payé par les auteurs pour publier un article de manière ouverte.
+
+# 11 septembre 2025
+[Conspiracy theory and strategic sophistication](https://github.com/adrien-fillon/presentations/blob/main/Conspiracy%20Theories%20and%20Strategic%20Sophistication.pptx) - Présentation en anglais à la conférence Twin4Merit sur une étude liant l'expérimentation sur les théories du complot et la sophistication stratégique.
