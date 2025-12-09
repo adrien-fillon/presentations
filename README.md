@@ -76,3 +76,6 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 11 septembre 2025
 [Conspiracy theory and strategic sophistication](https://github.com/adrien-fillon/presentations/blob/main/Conspiracy%20Theories%20and%20Strategic%20Sophistication.pptx) - Présentation en anglais à la conférence Twin4Merit sur une étude liant l'expérimentation sur les théories du complot et la sophistication stratégique.
+
+# 21 novembre 2025
+[Se méfier de l'open science](https://github.com/adrien-fillon/presentations/blob/main/Wary%20Open%20Science%20lyon%202025.pptx) - Présentation des problèmes posés par les APCS et les éditeurs scientifiques à l'institut de neuroscience de Lyon - équipe trajectoire.
