@@ -79,3 +79,6 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 21 novembre 2025
 [Se méfier de l'open science](https://github.com/adrien-fillon/presentations/blob/main/Wary%20Open%20Science%20lyon%202025.pptx) - Présentation des problèmes posés par les APCS et les éditeurs scientifiques à l'institut de neuroscience de Lyon - équipe trajectoire.
+
+# 23 Janvier 2026 
+[Le prix de la publication scientifique](https://github.com/adrien-fillon/presentations/blob/main/CPAFO%20APC%20afillon%202026.pptx) - Présentation au CPAFO du lien entre open-science, APC et prix des articles scientifiques.
