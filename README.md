@@ -82,3 +82,12 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 23 Janvier 2026 
 [Le prix de la publication scientifique](https://github.com/adrien-fillon/presentations/blob/main/CPAFO%20APC%20afillon%202026.pptx) - Présentation au CPAFO du lien entre open-science, APC et prix des articles scientifiques.
+
+# 26 Février 2026
+[Doing bayesian analysis by hand](https://github.com/adrien-fillon/presentations/blob/main/bayesianbeginer.pptx) - Masterclass au LAPSCO présentation une analyse bayésienne faite à la main.
+
+# 26 Février 2026
+[ProFAN results](https://github.com/adrien-fillon/presentations/blob/main/profanresult.pptx) - Team presentation of ProFAN results on grades
+
+# 13 mars 2026
+[Quand la théorie ne suffit pas : pour des interventions psychologiques plus pragmatiques​](https://github.com/adrien-fillon/presentations/blob/main/pragmatisme_lausanne.pptx) - Présentation à Lausanne des essais pragmatiques.
