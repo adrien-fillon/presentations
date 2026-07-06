@@ -91,3 +91,9 @@ Présentation de [ma thèse](https://github.com/adrien-fillon/presentations/blob
 
 # 13 mars 2026
 [Quand la théorie ne suffit pas : pour des interventions psychologiques plus pragmatiques​](https://github.com/adrien-fillon/presentations/blob/main/pragmatisme_lausanne.pptx) - Présentation à Lausanne des essais pragmatiques.
+
+# 10 juin 2026
+[Comprendre la psychologie en tant que science](https://github.com/adrien-fillon/presentations/blob/main/comprendre%20la%20psychologie%20en%20tant%20que%20science.pptx) - Présentation aux Small Meeting d'été 2026 des outils épistémologiques en psychologie
+
+# 12 juin 2026
+[La p-valeur avant la p-valeur](https://github.com/adrien-fillon/presentations/blob/main/p-valeur%20avant%20p-valeur.pptx) - Présentation aux Small Meeting d'été 2026 de l'histoire de la p-valeur avant son introduction par Fischer en 1925
